@@ -1,10 +1,11 @@
-# Sender Email
-#How use
+<H1> Sender Email</h1>
+<ul><h2>How use</h2>
 
-#download src folder with the querys required
+<li>download src folder with the querys required</li></br>
 
-#Enable less secure apps to access Gmail on the Account will send Gmail
+<li>Enable less secure apps to access Gmail on the Account will send Gmail</li></br>
 
-#replace some datas of email.php
+<li>replace some datas of email.php</li></br>
 
-#and send your first email with php.
+<li>and send your first email with php.</li></br>
+</ul>
